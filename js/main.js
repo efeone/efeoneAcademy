@@ -88,8 +88,7 @@
     
 })(jQuery);
 
-// HTML CSS JSResult Skip Results Iframe
-// EDIT ON
+
 const btns = document.querySelectorAll(".acc-btn");
 
 // fn
@@ -108,14 +107,4 @@ function accordion() {
 // event
 btns.forEach((el) => el.addEventListener("click", accordion));
 
-/*
-   
-       Jokes are from > 
-        https://chartcons.com/100-funny-trick-questions-answers/
-        Background image from > 
-        https://www.magicpattern.design/tools/css-backgrounds
-   
-*/
 
-
-Resources
