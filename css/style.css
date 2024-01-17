@@ -1160,31 +1160,23 @@ form {
 
     .ms-3 {
         margin-top: 10px;
-        margin-bottom: 20px; /* Adjust the spacing between items if needed */
+        margin-bottom: 20px; 
     }
 }
 
-
-
-
-
-
-
-
+/* faq */
 
 .title {
     text-align: center;
-    font-size: 5rem;
+    font-size: 0rem;
     padding: 1rem;
 }
 
-/* .acc-container {
-    padding: 4rem 2rem;
-} */
+
 .acc-btn {
     width: 100%;
-    padding: 1.6rem 2rem;
-    font-size: 20px;
+    padding: 1rem 1.6rem;
+    font-size: 15px;
     cursor: pointer;
     background: inherit;
     border: none;
@@ -1193,7 +1185,7 @@ form {
     transition: all 0.5s linear;
 }
 .acc-btn:after {
-    content: "\27A4";
+    content: "\002B";
     color: #420D67;
     float: right;
     transition: all 0.3s linear;
